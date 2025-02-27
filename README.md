@@ -1,9 +1,8 @@
-# LeadFinder Agent
+# Lead Generation Dashboard
 
 ## Overview
-LeadFinder is an AI-powered lead generation tool that helps businesses find potential leads on Quora by transforming user queries into targeted searches.
+> A powerful and efficient **Lead Generation Dashboard** built using React, Vite, and Tailwind CSS. This application enables users to manage and export lead data seamlessly.
 
-![LeadFinder Dashboard](gifs/leadfinder.gif)
 
 ## Features
 - Query transformation using AI
@@ -21,7 +20,7 @@ LeadFinder is an AI-powered lead generation tool that helps businesses find pote
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/vikas-kashyap97/LeadFinder-AI.git
 cd LeadFinder-Agent
 ```
 
