@@ -1,5 +1,7 @@
 # Lead Generation Dashboard
 
+#[Live link](https://lead-finder-ai.vercel.app/)
+
 ## Overview
 > A powerful and efficient **Lead Generation Dashboard** built using React, Vite, and Tailwind CSS. This application enables users to manage and export lead data seamlessly.
 
