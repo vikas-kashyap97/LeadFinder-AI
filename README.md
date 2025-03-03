@@ -23,7 +23,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/vikas-kashyap97/LeadFinder-AI.git
-cd LeadFinder-Agent
+cd LeadFinder-AI
 ```
 
 ### 2. Set Up Virtual Environment
